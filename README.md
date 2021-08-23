@@ -13,7 +13,7 @@ I am a python developer. I love programming, writing, speaking and gaming.
 
 As a developer, I enjoy coding some userful things like bots, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/BANanaD3V/BANanaD3V/blob/master/coding.gif?raw=true"/>
+<img align="right" height=100 alt="GIF" src="https://github.com/BANanaD3V/BANanaD3V/blob/master/coding.gif?raw=true"/>
   
 
 **Talking about Personal Stuffs:**
