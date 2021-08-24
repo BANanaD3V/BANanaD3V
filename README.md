@@ -25,6 +25,7 @@ As a developer, I enjoy coding some userful things like bots, my unequivocal lov
 
 </br>
 📊 **This Week I Spent My Time On:**
+
 <!--START_SECTION:waka-->
 ```text
 Python       15 hrs 57 mins  ██████████████████████▓░░   91.22 % 
