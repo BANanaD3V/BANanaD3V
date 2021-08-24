@@ -35,7 +35,7 @@ As a developer, I enjoy coding some userful things like bots,
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/kuzaku-developers/kuzaku/issues/1) in [kuzaku-developers/kuzaku](https://github.com/kuzaku-developers/kuzaku)
+1. 🎉 Merged PR [#1](https://github.com/BANanaD3V/BANanaD3V/pull/1) in [BANanaD3V/BANanaD3V](https://github.com/BANanaD3V/BANanaD3V)
 <!--END_SECTION:activity-->
 
 
