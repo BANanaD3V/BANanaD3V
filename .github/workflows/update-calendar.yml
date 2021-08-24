@@ -7,6 +7,7 @@ on:
     - cron: "*/30 * * * *"
 
 jobs:
+
   update-calendar:
     name: Update this repo's README
     runs-on: ubuntu-latest
@@ -14,5 +15,10 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.TOKEN }}
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year # Display full year instead of half year
+          plugin_isocalendar_duration: full-year
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
+          delay: 120
