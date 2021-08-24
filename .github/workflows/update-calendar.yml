@@ -3,11 +3,16 @@ name: Calendar Update
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 7am UTC3
-    - cron: "0 4 * * *"
+    # Runs every half hour
+    - cron: "*/30 * * * *"
 
-uses: lowlighter/metrics@latest
-  with:
-    # ... other options
-    plugin_isocalendar: yes
-    plugin_isocalendar_duration: full-year # Display full year instead of half year
+jobs:
+  update-calendar:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # ... other options
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year # Display full year instead of half year
