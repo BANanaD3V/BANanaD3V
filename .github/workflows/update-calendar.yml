@@ -20,5 +20,5 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          output_action: pull-request
+          output_action: commit
           delay: 120
