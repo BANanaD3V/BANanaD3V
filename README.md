@@ -45,7 +45,7 @@ Git Config   3 mins          ░░░░░░░░░░░░░░░░░
 
 📈 **My GitHub Stats:**
 
-<img alt="" align="right" width="350" src="https://github.com/BANanaD3V/BANanaD3V/blob/master/metrics.plugin.isocalendar.fullyear.svg">
+<img alt="" align="right" src="https://github.com/BANanaD3V/BANanaD3V/blob/master/metrics.plugin.isocalendar.fullyear.svg">
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BANanaD3V&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
