@@ -24,7 +24,7 @@ As a developer, I enjoy coding some userful things like bots, my unequivocal lov
 - 📫 How to reach me: banana@bananadev.ml;
 
 </br>
-📊 **This Week I Spent My Time On:**
+📊 **This Week I Spent My Time On:** 
 
 <!--START_SECTION:waka-->
 ```text
