@@ -35,6 +35,11 @@ YAML         9 mins          ▒░░░░░░░░░░░░░░░░
 Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 <!--END_SECTION:waka-->
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+No activity
+<!--END_SECTION:activity-->
 
 
 📈 **My GitHub Stats:**
