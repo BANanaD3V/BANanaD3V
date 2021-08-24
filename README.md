@@ -12,7 +12,7 @@
 I am a python developer. I love programming, writing, speaking and gaming.
 
 As a developer, I enjoy coding some userful things like bots, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
-<img alt="" align="right" width="500" src="https://github.com/BANanaD3V/BANanaD3V/blob/master/metrics.plugin.isocalendar.fullyear.svg">
+<img alt="" align="right" width="450" src="https://github.com/BANanaD3V/BANanaD3V/blob/master/metrics.plugin.isocalendar.fullyear.svg">
 <!--<img align="right" height=100 alt="GIF" src="https://github.com/BANanaD3V/BANanaD3V/blob/master/coding.gif?raw=true"/>!-->
   
 
@@ -24,7 +24,7 @@ As a developer, I enjoy coding some userful things like bots, my unequivocal lov
 - 📫 How to reach me: banana@bananadev.ml;
 
 </br>
-📊 **This Week I Spent My Time On:** 
+📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
 ```text
