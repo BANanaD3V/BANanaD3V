@@ -41,7 +41,7 @@ Git Config   5 mins          ░░░░░░░░░░░░░░░░░
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/BANanaD3V/BANanaD3V/pull/1) in [BANanaD3V/BANanaD3V](https://github.com/BANanaD3V/BANanaD3V)
+1. 🎉 Merged PR [#1](https://github.com/BANanaD3V/bananadev.ml/pull/1) in [BANanaD3V/bananadev.ml](https://github.com/BANanaD3V/bananadev.ml)
 <!--END_SECTION:activity-->
 
 
