@@ -40,7 +40,7 @@ JavaScript   3 mins          ░░░░░░░░░░░░░░░░░
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/BANanaD3V/bananadev.ml/pull/2) in [BANanaD3V/bananadev.ml](https://github.com/BANanaD3V/bananadev.ml)
+1. ❗️ Opened issue [#4](https://github.com/BANanaD3V/BANanaD3V/issues/4) in [BANanaD3V/BANanaD3V](https://github.com/BANanaD3V/BANanaD3V)
 <!--END_SECTION:activity-->
 
 
