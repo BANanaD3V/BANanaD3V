@@ -7,7 +7,7 @@
 [![Steam Badge](https://img.shields.io/badge/-Steam-1b2838?style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/id/BANanaD3V/)
 [![Steam Badge](https://img.shields.io/badge/-Reddit-ff6314?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/BANanaD3V)
 
-### Glad to see you here! &nbsp; ![](visitor-badge-reloaded.herokuapp.com/badge?page_id=BANanaD3V.BANanaD3V)
+### Glad to see you here! &nbsp; ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=BANanaD3V.BANanaD3V)
 
 I am a python developer. I love programming, writing, speaking and gaming.
 
