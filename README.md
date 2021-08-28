@@ -1,13 +1,13 @@
 ### Hi, I am <a href="https://bananadev.ml" target="_blank">BANana</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://bananadev.ml)
-[![Discord Badge](https://img.shields.io/badge/-Discord-424242?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/sQgHEERpqR)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/BANanaD3V)
-[![Steam Badge](https://img.shields.io/badge/-Steam-1b2838?style=flat-square&logo=Steam&logoColor=white)](https://steamcommunity.com/id/BANanaD3V/)
-[![Steam Badge](https://img.shields.io/badge/-Reddit-ff6314?style=flat-square&logo=Reddit&logoColor=white)](https://www.reddit.com/user/BANanaD3V)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bananadev.ml)
+[![Discord Badge](https://img.shields.io/badge/-Discord-424242?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/sQgHEERpqR)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/BANanaD3V)
+[![Steam Badge](https://img.shields.io/badge/-Steam-1b2838?style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/id/BANanaD3V/)
+[![Steam Badge](https://img.shields.io/badge/-Reddit-ff6314?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/BANanaD3V)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=BANanaD3V.BANanaD3V)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=BANanaD3V.BANanaD3V&style=for-the-badge)
 
 I am a python developer. I love programming, writing, speaking and gaming.
 
