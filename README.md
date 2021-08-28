@@ -37,13 +37,6 @@ JavaScript   3 mins          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/BANanaD3V/BANanaD3V/issues/4) in [BANanaD3V/BANanaD3V](https://github.com/BANanaD3V/BANanaD3V)
-<!--END_SECTION:activity-->
-
-
 📈 **My GitHub Stats:**
 
 <img alt="" width="400" src="https://github.com/BANanaD3V/BANanaD3V/blob/master/metrics.plugin.isocalendar.fullyear.svg">
