@@ -43,7 +43,7 @@ JavaScript   2 mins          ░░░░░░░░░░░░░░░░░
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BANanaD3V&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAnanaD3V&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAnanaD3V&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=dark"/>
 </p>
 
 
