@@ -19,7 +19,7 @@ As a developer, I enjoy coding some userful things like bots,
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on [kuzaku](https://kuzaku.ml);
-- 🚀 I’m currently learning [Java](https://java.com) and [Dart](https://dart.dev);
+- 🚀 I’m currently learning [Java](https://java.com), [C#](https://www.microsoft.com/en-us/download/details.aspx?id=7029) and [Dart](https://dart.dev);
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: banana@bananadev.ml;
 
