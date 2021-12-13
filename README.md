@@ -28,11 +28,11 @@ As a developer, I enjoy coding some userful things like bots,
 
 <!--START_SECTION:waka-->
 ```text
-Python   1 hr 43 mins    ██████████████████████░░░   87.74 % 
-HTML     8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-CSS      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-YAML     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-JSON     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Python   2 hrs 7 mins    ████████████▓░░░░░░░░░░░░   50.79 % 
+HTML     1 hr 4 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.65 % 
+CSS      37 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Other    12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Text     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 <!--END_SECTION:waka-->
 
