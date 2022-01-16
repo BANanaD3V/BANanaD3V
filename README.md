@@ -28,10 +28,8 @@ As a developer, I enjoy coding some userful things like bots,
 
 <!--START_SECTION:waka-->
 ```text
-Python     7 hrs 15 mins   ████████████████████████▓   98.27 % 
-BibTeX     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Other      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-Bash       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Python       4 hrs 40 mins   ████████████████████████▓   98.43 % 
+BibTeX       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 ```
 <!--END_SECTION:waka-->
 
