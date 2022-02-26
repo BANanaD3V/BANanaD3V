@@ -28,7 +28,11 @@ As a developer, I enjoy coding some userful things like bots,
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+YAML     12 mins         ███████▒░░░░░░░░░░░░░░░░░   29.53 % 
+C#       10 mins         ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+Python   8 mins          █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+Text     5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Bash     3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
 ```
 <!--END_SECTION:waka-->
 
