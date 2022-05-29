@@ -29,7 +29,7 @@ As a developer, I enjoy coding some userful things like bots,
 <!--START_SECTION:waka-->
 
 ```text
-C#   1 hr 32 mins    █████████████████████████   100.00 %
+C#   39 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
