@@ -29,12 +29,12 @@ As a developer, I enjoy coding some userful things like bots,
 <!--START_SECTION:waka-->
 
 ```text
-Python       4 hrs 43 mins   ████████████████████░░░░░   79.95 %
-Markdown     46 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 %
-RPMSpec      13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-YAML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-Text         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Python       3 hrs 33 mins   ███████████████████░░░░░░   75.58 %
+Markdown     46 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.53 %
+RPMSpec      13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Text         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
