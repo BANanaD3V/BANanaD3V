@@ -29,12 +29,9 @@ As a developer, I enjoy coding some userful things like bots,
 <!--START_SECTION:waka-->
 
 ```text
-Docker       1 hr 5 mins     ██████████░░░░░░░░░░░░░░░   40.05 %
-Python       22 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 %
-TypeScript   19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
-JSON         19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
-YAML         10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
-Other        8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+Docker     1 hr 29 mins    ████████▒░░░░░░░░░░░░░░░░   33.64 %
+Python     1 hr 24 mins    ████████░░░░░░░░░░░░░░░░░   31.65 %
+Other      22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
 ```
 
 <!--END_SECTION:waka-->
