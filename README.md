@@ -29,10 +29,10 @@ As a developer, I enjoy coding some userful things like bots,
 <!--START_SECTION:waka-->
 
 ```text
-TOML         56 mins         ████████░░░░░░░░░░░░░░░░░   31.70 %
-C#           54 mins         ███████▓░░░░░░░░░░░░░░░░░   30.68 %
-Batchfile    29 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.88 %
-Other        21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
+C#           2 hrs 53 mins   ██████████████▓░░░░░░░░░░   58.58 %
+TOML         56 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.94 %
+Batchfile    29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+Other        21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
 ```
 
 <!--END_SECTION:waka-->
