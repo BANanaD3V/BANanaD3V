@@ -11,17 +11,17 @@
 
 I am a python developer. I love programming, writing, speaking and gaming.
 
-As a developer, I enjoy coding some userful things like bots, 
+As a developer, I enjoy coding some userful things like bots,
 <br>my unequivocal love for making things that change the world. 
 <br>That's why I like to make things that make a difference.
   
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on [kuzaku](https://kuzaku.ml);
-- 🚀 I’m currently learning [Java](https://java.com), [C#](https://www.microsoft.com/en-us/download/details.aspx?id=7029) and [Dart](https://dart.dev);
+- 👨🏻‍💻 I’m currently working on [my new website](https://banana.is-cool.dev);
+- 🚀 I’m currently learning [JS](https://js.com), [Fennel](https://fennel-lang.org) and [NVim](https://neovim.io/);
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: banana@bananadev.ml;
+- 📫 How to reach me: [unavailable for now];
 
 </br>
 📊 This Week I Spent My Time On:
