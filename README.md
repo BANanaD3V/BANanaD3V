@@ -29,7 +29,7 @@ As a developer, I enjoy coding some userful things like bots,
 <!--START_SECTION:waka-->
 
 ```txt
-Other   1 min           █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
