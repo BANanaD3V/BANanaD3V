@@ -32,7 +32,7 @@ As a developer, I enjoy coding some userful things like bots,
 Python       1 hr 56 mins    ███████▓░░░░░░░░░░░░░░░░░   31.13 %
 Lua          1 hr 31 mins    ██████░░░░░░░░░░░░░░░░░░░   24.47 %
 TypeScript   50 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
-Text         37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
+Text         37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 %
 Bash         25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
 ```
 
