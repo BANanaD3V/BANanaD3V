@@ -29,10 +29,10 @@ As a developer, I enjoy coding some userful things like bots,
 <!--START_SECTION:waka-->
 
 ```txt
-Groovy       58 mins         ███████████████████▓░░░░░   78.59 %
-Java         8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
-Properties   6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
-YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+JSON         9 mins          ██████████████▒░░░░░░░░░░   57.28 %
+TypeScript   6 mins          ██████████░░░░░░░░░░░░░░░   39.69 %
+TSConfig     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
