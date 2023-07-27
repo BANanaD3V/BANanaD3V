@@ -19,9 +19,9 @@ As a developer, I enjoy coding some userful things like bots,
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on [my new website](https://banana.is-cool.dev);
-- 🚀 I’m currently learning [JS](https://js.com), [Fennel](https://fennel-lang.org) and [NVim](https://neovim.io/);
+- 🚀 I’m currently learning [JS](https://js.com), [Nixos](https://nixos.org) and [Hyprland](https://hyprland.org);
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [unavailable for now];
+- 📫 Reach me in discord - [bananad3v](https://discord.com/users/704560097610825828);
 
 </br>
 📊 This Week I Spent My Time On:
