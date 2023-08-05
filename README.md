@@ -29,10 +29,8 @@ As a developer, I enjoy coding some userful things like bots,
 <!--START_SECTION:waka-->
 
 ```txt
-Nix    3 hrs 10 mins   ███████████████████░░░░░░   76.16 %
-Text   21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
-Bash   18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
-conf   18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
+Nix    2 hrs 39 mins   ██████████████████████░░░   87.91 %
+Text   21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
 ```
 
 <!--END_SECTION:waka-->
