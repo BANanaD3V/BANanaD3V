@@ -29,11 +29,11 @@ As a developer, I enjoy coding some userful things like bots,
 <!--START_SECTION:waka-->
 
 ```txt
-Nix     48 mins         █████████████▒░░░░░░░░░░░   53.22 %
-jsonc   27 mins         ███████▒░░░░░░░░░░░░░░░░░   29.54 %
-Bash    7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
-Other   5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-TOML    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+Nix     1 hr 22 mins    ████████████████▒░░░░░░░░   65.37 %
+jsonc   27 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.48 %
+Bash    8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
+Other   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+TOML    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 ```
 
 <!--END_SECTION:waka-->
