@@ -29,11 +29,11 @@ As a developer, I enjoy coding some userful things like bots,
 <!--START_SECTION:waka-->
 
 ```txt
-Nix              4 hrs 22 mins   ████████░░░░░░░░░░░░░░░░░   31.79 %
-Python           3 hrs 12 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.29 %
-CSS              2 hrs 25 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.63 %
-Java             1 hr 22 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
-Ezhil            39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+Nix              4 hrs 17 mins   ███████████▒░░░░░░░░░░░░░   45.69 %
+CSS              2 hrs 3 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.91 %
+Java             1 hr 15 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.40 %
+Bash             28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+XML              15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
 ```
 
 <!--END_SECTION:waka-->
