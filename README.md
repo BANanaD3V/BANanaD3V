@@ -29,11 +29,11 @@ As a developer, I enjoy coding some userful things like bots,
 <!--START_SECTION:waka-->
 
 ```txt
-Nix            40 mins         ████████░░░░░░░░░░░░░░░░░   32.57 %
-XML            15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
-CBM BASIC V2   14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 %
-Java           14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
-YAML           12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
+Nix            26 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.87 %
+CBM BASIC V2   14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 %
+XML            12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
+YAML           12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 %
+Bash           10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
 ```
 
 <!--END_SECTION:waka-->
