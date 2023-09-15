@@ -26,3 +26,4 @@ jobs:
           SHOW_SHORT_INFO: "True"
           SHOW_OS: "True"
           LOCALE: "en"
+          DEBUG_LOGGING: 1
