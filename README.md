@@ -29,11 +29,9 @@ As a developer, I enjoy coding some userful things like bots,
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 hrs 52 mins   █████████████████████▒░░░   85.30 %
-Python       34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-TSConfig     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Nix          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Python       34 mins         ████████████████████████▒   97.44 %
+TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Nix          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
