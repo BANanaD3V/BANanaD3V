@@ -27,9 +27,9 @@ As a developer, I enjoy coding some userful things like bots,
 📊 This Week I Spent My Time On:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-799%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-813%20hrs%2034%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
@@ -70,17 +70,17 @@ Sunday                   48 commits          █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               2 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   27.95 % 
-Nix                      1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
-Python                   1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-Markdown                 1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
-YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+TypeScript               17 hrs 3 mins       ██████████████████████░░░   86.02 % 
+Nix                      1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Python                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 24 mins       █████████████████████████   100.00 % 
+VS Code                  19 hrs 49 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 hrs 24 mins       █████████████████████████   100.00 % 
+Linux                    19 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -100,7 +100,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BANanaD3V/BANanaD3V/master/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2024 04:39:05 UTC
+ Last Updated on 04/01/2024 04:37:26 UTC
 <!--END_SECTION:waka-->
 
 
