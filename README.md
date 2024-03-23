@@ -19,7 +19,7 @@ As a developer, I enjoy coding some userful things like bots,
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on [my new website](https://banana.is-cool.dev);
-- 🚀 I’m currently learning [JS](https://js.com), [Nixos](https://nixos.org) and [Hyprland](https://hyprland.org);
+- 🚀 I’m currently learning [JS](https://js.org), [Nixos](https://nixos.org) and [Hyprland](https://hyprland.org);
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: banana@banana.is-cool.dev;
 
