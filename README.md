@@ -1,7 +1,7 @@
-### Hi, I am <a href="https://bananadev.ml" target="_blank">BANana</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I am <a href="https://banana.is-cool.dev" target="_blank">BANana</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bananadev.ml)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://banana.is-cool.dev)
 [![Discord Badge](https://img.shields.io/badge/-Discord-424242?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/sQgHEERpqR)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/BANanaD3V)
 [![Steam Badge](https://img.shields.io/badge/-Steam-1b2838?style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/id/BANanaD3V/)
