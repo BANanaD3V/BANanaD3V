@@ -27,13 +27,13 @@ As a developer, I enjoy coding some userful things like bots,
 📊 This Week I Spent My Time On:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C134%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C134%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 247.0 kB Used in GitHub's Storage 
+> 📦 247.1 kB Used in GitHub's Storage 
  > 
 > 🏆 513 Contributions in the Year 2024
  > 
@@ -70,13 +70,13 @@ Sunday                   339 commits         ███████░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               46 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  46 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    46 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Nix** 
@@ -96,7 +96,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BANanaD3V/BANanaD3V/master/assets/bar_graph.png)
 
 
- Last Updated on 11/07/2024 04:51:30 UTC
+ Last Updated on 13/07/2024 04:43:36 UTC
 <!--END_SECTION:waka-->
 
 
