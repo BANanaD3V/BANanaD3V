@@ -29,7 +29,7 @@ As a developer, I enjoy coding some userful things like bots,
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C174%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
@@ -70,16 +70,16 @@ Sunday                   361 commits         ██████░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               13 hrs 2 mins       ████████████████████████░   97.23 % 
-CSS                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+TypeScript               10 hrs 28 mins      █████████████████████████   99.43 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 24 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 32 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    13 hrs 24 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Nix** 
@@ -99,7 +99,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BANanaD3V/BANanaD3V/master/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2024 04:46:36 UTC
+ Last Updated on 06/10/2024 04:45:37 UTC
 <!--END_SECTION:waka-->
 
 
