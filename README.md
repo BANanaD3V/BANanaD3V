@@ -27,7 +27,7 @@ As a developer, I enjoy coding some userful things like bots,
 📊 This Week I Spent My Time On:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C221%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C222%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -35,7 +35,7 @@ As a developer, I enjoy coding some userful things like bots,
 
 > 📦 302.4 kB Used in GitHub's Storage 
  > 
-> 🏆 845 Contributions in the Year 2024
+> 🏆 849 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -43,6 +43,46 @@ As a developer, I enjoy coding some userful things like bots,
  > 
 > 🔑 23 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                395 commits         ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
+🌆 Daytime                487 commits         ███████░░░░░░░░░░░░░░░░░░   29.82 % 
+🌃 Evening                751 commits         ███████████░░░░░░░░░░░░░░   45.99 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   289 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+Tuesday                  262 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Wednesday                183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Thursday                 164 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Friday                   216 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Saturday                 147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Sunday                   372 commits         ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+TypeScript               5 hrs 23 mins       ███████████████░░░░░░░░░░   61.25 % 
+Python                   2 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   31.36 % 
+TOML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Nix                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+
+🔥 Editors: 
+VS Code                  8 hrs 47 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    8 hrs 47 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -60,7 +100,7 @@ Just                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BANanaD3V/BANanaD3V/master/assets/bar_graph.png)
 
 
- Last Updated on 10/12/2024 04:42:03 UTC
+ Last Updated on 11/12/2024 04:41:56 UTC
 <!--END_SECTION:waka-->
 
 
