@@ -27,7 +27,7 @@ As a developer, I enjoy coding some userful things like bots,
 📊 This Week I Spent My Time On:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C528%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C530%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -35,13 +35,13 @@ As a developer, I enjoy coding some userful things like bots,
 
 > 📦 412.7 kB Used in GitHub's Storage 
  > 
-> 🏆 296 Contributions in the Year 2025
+> 🏆 297 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
 > 📜 25 Public Repositories 
  > 
-> 🔑 32 Private Repositories 
+> 🔑 33 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -70,17 +70,17 @@ Sunday                   496 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               3 hrs 3 mins        ████████████████████████░   97.45 % 
-Protocol Buffer          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-Nix                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+TypeScript               2 hrs 55 mins       █████████████████████░░░░   83.90 % 
+Protocol Buffer          20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Nix                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 8 mins        █████████████████████████   99.93 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+VS Code                  3 hrs 28 mins       █████████████████████████   99.59 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 💻 Operating System: 
-Linux                    3 hrs 8 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -100,7 +100,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BANanaD3V/BANanaD3V/master/assets/bar_graph.png)
 
 
- Last Updated on 17/06/2025 04:53:49 UTC
+ Last Updated on 19/06/2025 04:58:54 UTC
 <!--END_SECTION:waka-->
 
 
