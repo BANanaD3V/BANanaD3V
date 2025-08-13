@@ -27,13 +27,15 @@ As a developer, I enjoy coding some userful things like bots,
 📊 This Week I Spent My Time On:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C614%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C615%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 418.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 321 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -68,18 +70,18 @@ Sunday                   503 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               8 hrs 9 mins        █████████████████████████   98.56 % 
-Protocol Buffer          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-Nix                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+TypeScript               8 hrs 29 mins       ████████████████████████░   95.74 % 
+Nix                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Protocol Buffer          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 15 mins       █████████████████████████   99.87 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+VS Code                  8 hrs 36 mins       ████████████████████████░   97.05 % 
+Neovim                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 💻 Operating System: 
-Linux                    8 hrs 16 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -99,7 +101,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BANanaD3V/BANanaD3V/master/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2025 04:43:33 UTC
+ Last Updated on 13/08/2025 04:45:34 UTC
 <!--END_SECTION:waka-->
 
 
